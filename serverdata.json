@@ -1,21 +1,7 @@
 {
   "min-CXS-version": "4.0.0",
-  "admins": [
-    {
-      "name": "cha",
-      "user-id": "E954BED6D2130401",
-      "menu": "violet"
-    },
-    {
-      "name": "tortise",
-      "user-id": "6442C363781033F3",
-      "menu": "violet"
-    }
-  ],
-  "super-admins": [
-    "cha",
-    "twig"
-  ]
+  "admins": [],
+  "super-admins": []
 }
 
 
